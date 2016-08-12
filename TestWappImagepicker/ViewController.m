@@ -37,7 +37,7 @@
 {
     [super viewWillAppear:YES];
     
-    NSLog(@"AppDelegate Test Array == %@",[self appDelegate].testArray);
+    NSLog(@"AppDelegate Test kaushik == %@",[self appDelegate].testArray);
 }
 
 -(IBAction) imagepickerData:(id)sender
