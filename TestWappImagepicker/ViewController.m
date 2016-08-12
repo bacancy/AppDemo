@@ -22,19 +22,13 @@
 
 - (void)viewDidLoad
 {
+    
 
-    // hello how r u ?
-    // any replay..!!
 
     [super viewDidLoad];
    
     arrImages=[[NSMutableArray alloc] init];
     pagenumber=0;
-   
-
-    NSLog(@"hari here");
-    NSLog(@"Kaushik Here");
-   
 
     
     // Do any additional setup after loading the view, typically from a nib.
